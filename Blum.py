@@ -7,7 +7,7 @@ from tkinter import messagebox
 from ttkthemes import ThemedTk
 from tkinter import ttk
 
-head = {}  # Define head globally
+head = {}  
 
 def fetch_balance(jwt):
     global head
